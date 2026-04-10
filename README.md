@@ -11,3 +11,12 @@ I added a method to the class to display the values of the student attributes an
 <img width="1262" height="283" alt="image" src="https://github.com/user-attachments/assets/3a1913ca-5c08-4ea6-9c2f-68630dc89ec0" />
 <img width="374" height="73" alt="image" src="https://github.com/user-attachments/assets/726e8e95-ae73-4434-b628-77737b70033b" />
 I created an object of the class and used a constructor so i can assign values to the students ID and name. I then used the print method to display the values and this showed that it worked.
+
+<img width="628" height="186" alt="image" src="https://github.com/user-attachments/assets/741319a4-c7e4-4f87-a54b-d23bae2f36d3" />
+I created a course class with attributes for course code and course name and these were defined as strings.
+
+<img width="1082" height="509" alt="image" src="https://github.com/user-attachments/assets/f45ecf33-9982-40ed-ad09-367b3b45d171" />
+From the course class i added a constructor and print method and i assigned values to the course code and name using the this keyyword and the print method to output the values.
+
+<img width="830" height="532" alt="image" src="https://github.com/user-attachments/assets/134eed87-661d-4b5c-a2fd-bfb45f20a67f" />
+The student class was updated by adding an attribute of type course which allowed each student object to store information about the course that they enrolled in,
