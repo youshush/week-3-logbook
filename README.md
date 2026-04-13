@@ -24,3 +24,5 @@ The student class was updated by adding an attribute of type course which allowe
 <img width="845" height="594" alt="image" src="https://github.com/user-attachments/assets/8a7d74bb-892f-4f9a-81df-3d69b3576c37" />
 For task 9 i added the enrol method to the stduent class which allowed a course object to be assigned to a student and the method takes a course parameter and uses the this keyword to assign it to student course attribute.
 
+<img width="1030" height="722" alt="image" src="https://github.com/user-attachments/assets/61f48780-5fa9-4b34-88da-d43f1b57d4fa" />
+I changed the print method in the stduent calss to also display the course details which is associated with the stduent. I added the statement (if (course != null)) to ensure thata  course has been assigned before accessing it which prevents errors from occruing.
