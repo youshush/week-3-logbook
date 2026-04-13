@@ -26,3 +26,5 @@ For task 9 i added the enrol method to the stduent class which allowed a course 
 
 <img width="1030" height="722" alt="image" src="https://github.com/user-attachments/assets/61f48780-5fa9-4b34-88da-d43f1b57d4fa" />
 I changed the print method in the stduent calss to also display the course details which is associated with the stduent. I added the statement (if (course != null)) to ensure thata  course has been assigned before accessing it which prevents errors from occruing.
+<img width="442" height="220" alt="image" src="https://github.com/user-attachments/assets/a5b8daaf-a3ef-4674-8994-5b9a76550cf3" />
+this shows the code worked correctly
