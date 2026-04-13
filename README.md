@@ -19,4 +19,8 @@ I created a course class with attributes for course code and course name and the
 From the course class i added a constructor and print method and i assigned values to the course code and name using the this keyyword and the print method to output the values.
 
 <img width="830" height="532" alt="image" src="https://github.com/user-attachments/assets/134eed87-661d-4b5c-a2fd-bfb45f20a67f" />
-The student class was updated by adding an attribute of type course which allowed each student object to store information about the course that they enrolled in,
+The student class was updated by adding an attribute of type course which allowed each student object to store information about the course that they enrolled in.
+
+<img width="845" height="594" alt="image" src="https://github.com/user-attachments/assets/8a7d74bb-892f-4f9a-81df-3d69b3576c37" />
+For task 9 i added the enrol method to the stduent class which allowed a course object to be assigned to a student and the method takes a course parameter and uses the this keyword to assign it to student course attribute.
+
